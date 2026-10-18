@@ -25,9 +25,12 @@ import ccsLogo from '../assets/ccs-logo.png'
 }
 
 .hero-logo {
-  width: 140px;
+  width: 180px;
 }
 
+.ccs-logo {
+  width: 80px;
+}
 .cta {
   display: inline-block;
   margin-top: 16px;

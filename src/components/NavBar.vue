@@ -46,6 +46,10 @@ import ccsLogo from '../assets/ccs-logo.png'
   width: 36px;
 }
 
+.ccs-logo {
+  width: 50px;
+}
+
 nav {
   display: flex;
   flex-wrap: wrap;
