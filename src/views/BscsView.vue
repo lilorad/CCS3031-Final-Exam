@@ -7,35 +7,37 @@ import InfoSection from '../components/InfoSection.vue'
     <header class="program-hero">
       <RouterLink to="/#programs" class="back-link">← Back to Programs</RouterLink>
       <h1>Bachelor of Science in Computer Science</h1>
-      <p>Write a one-line tagline here.</p>
+      <p>Master the logic and theory behind the software that shapes the world.</p>
     </header>
 
     <InfoSection title="Program Overview">
-      <p>Write the overview here.</p>
+      <p>The Bachelor of Science in Computer Science (BSCS) develops students’ understanding of how computers work and how to make them solve real problems. The program focuses on programming, algorithms, data structures, and software development, giving graduates a strong theoretical and practical foundation for the fast-changing field of computing.</p>
     </InfoSection>
 
     <InfoSection title="What You Will Learn">
       <ul>
-        <li>Skill or topic 1</li>
-        <li>Skill or topic 2</li>
-        <li>Skill or topic 3</li>
+        <li>Algorithms and data structures</li>
+        <li>Operating systems and computer architecture</li>
+        <li>Programming languages and software development</li>
+        <li>Artificial intelligence and machine learning fundamentals</li>
       </ul>
     </InfoSection>
 
     <InfoSection title="Career Opportunities">
       <ul>
-        <li>Career 1</li>
-        <li>Career 2</li>
-        <li>Career 3</li>
+        <li>Software engineer or developer</li>
+        <li>Data scientist or data analyst</li>
+        <li>AI researcher or machine learning engineer</li>
+        <li>Researcher or computer science educator</li>
       </ul>
     </InfoSection>
 
     <InfoSection title="Why Choose This Program">
-      <p>Write the benefits here.</p>
+      <p>BSCS builds a strong foundation in computing theory, which makes it easier to adapt as technologies change. Its emphasis on logic, mathematics, and problem-solving prepares graduates for advanced roles in software development, data, and emerging fields like AI. The skills are also useful for further studies and research.</p>
     </InfoSection>
 
     <InfoSection title="Who Should Enroll">
-      <p>Write who this suits here.</p>
+      <p>This program is for students who enjoy logic, mathematics, and solving challenging problems. It suits those who want to understand how software works from the inside, and who are curious about topics like algorithms, artificial intelligence, and data. Prior programming experience is helpful but not required.</p>
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">

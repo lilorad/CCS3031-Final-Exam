@@ -7,35 +7,39 @@ import InfoSection from '../components/InfoSection.vue'
     <header class="program-hero">
       <RouterLink to="/#programs" class="back-link">← Back to Programs</RouterLink>
       <h1>Bachelor of Science in Information Technology</h1>
-      <p>Write a one-line tagline here.</p>
+      <p>Build the technology that powers the modern world.</p>
     </header>
 
     <InfoSection title="Program Overview">
-      <p>Write the overview here.</p>
+      <p>The Bachelor of Science in Information Technology (BSIT) prepares students to design, develop, manage, and secure computer systems and applications. The program combines practical technical skills with problem-solving, so graduates can meet the technology needs of businesses, schools, government, and other organizations.</p>
     </InfoSection>
 
     <InfoSection title="What You Will Learn">
       <ul>
-        <li>Skill or topic 1</li>
-        <li>Skill or topic 2</li>
-        <li>Skill or topic 3</li>
+        <li>Programming and software development</li>
+        <li>Web and mobile application development</li>
+        <li>Network administration and cybersecurity</li>
+        <li>Database design and management</li>
+        <li>Information security and data protection</li>
       </ul>
     </InfoSection>
 
     <InfoSection title="Career Opportunities">
       <ul>
-        <li>Career 1</li>
-        <li>Career 2</li>
-        <li>Career 3</li>
+        <li>Database administrator</li>
+        <li>Systems analyst</li>
+        <li>Software Developer</li>
+        <li>Web Developer</li>
+        <li>Network Administrator</li>
       </ul>
     </InfoSection>
 
     <InfoSection title="Why Choose This Program">
-      <p>Write the benefits here.</p>
+      <p>The BSIT program focuses on hands-on, job-ready skills. Technology skills are needed in almost every industry, so graduates have many career paths to choose from. The program also builds skills in teamwork, communication, and critical thinking, which employers value in any field.</p>
     </InfoSection>
 
     <InfoSection title="Who Should Enroll">
-      <p>Write who this suits here.</p>
+      <p>This program is for students who enjoy working with computers, solving problems, and learning how technology works. It suits anyone curious about building websites and apps, managing networks, or keeping systems secure. No prior programming experience is required, just interest and willingness to learn.</p>
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">

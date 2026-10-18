@@ -6,7 +6,11 @@ import ccsLogo from '../assets/ccs-logo.png'
   <section id="home" class="hero">
     <img :src="ccsLogo" alt="CCS logo" class="hero-logo" />
     <h1>Welcome to the College of Computer Studies</h1>
-    <p>Write 2 to 3 sentences about CCS and its role in technology and computing education.</p>
+    <p>The College of Computer Studies (CCS) serves as a vital academic hub dedicated to training the next generation of software engineers, 
+      IT specialists, data scientists, and cybersecurity experts through rigorous coursework and practical research.
+      
+      By bridging fundamental theory with hands-on technical application, the college equips students to design innovative software, 
+      solve complex algorithmic problems, and adapt to rapidly evolving tech landscapes. Ultimately, it plays a central role in driving digital transformation by fostering industry partnerships and preparing skilled professionals to lead global advances in technology and computing.</p>
     <RouterLink :to="{ path: '/', hash: '#programs' }" class="cta">
       Explore Our Programs
     </RouterLink>
