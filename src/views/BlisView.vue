@@ -11,7 +11,7 @@ import InfoSection from '../components/InfoSection.vue'
     </header>
 
     <InfoSection title="Program Overview">
-      <p>The Bachelor of Library and Information Science (BLIS) prepares students to collect, organize, preserve, and share information in both traditional and digital formats. The program covers library management, cataloging and classification, information retrieval, and digital resources, so graduates can serve communities in libraries, archives, schools, and other information centers.</p>
+      <p>The Bachelor of Library and Information Science (BLIS) equips learners with knowledge on how to gather, classify, preserve, and disseminate information in various forms. Topics studied under the BLIS include library administration, cataloguing and classification, information search and retrieval, and digital resources. This will enable the BLIS graduates to offer their services in communities within libraries, archives, schools, and other information institutions.</p>
     </InfoSection>
 
     <InfoSection title="What You Will Learn">
@@ -33,7 +33,7 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Why Choose This Program">
-      <p>Information is growing fast, and organizations need people who can organize it and help others find what they need. BLIS combines traditional library skills with modern technology, so graduates are ready for both physical and digital information environments. The program also builds research, organization, and service skills that apply in many workplaces.</p>
+      <p>With the increase in information, organizations require individuals to be capable of organizing information and assisting other people in accessing the information. In this course, the library skills will be combined with technologies. Thus, graduates from the course will be prepared for information environments whether physical or digital.</p>
     </InfoSection>
 
     <InfoSection title="Who Should Enroll">
@@ -41,7 +41,7 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">
-      <p>BLIS students complete a supervised library practicum in school, public, academic, or special libraries. The program prepares graduates for the Librarian Licensure Examination given by the Professional Regulation Commission (PRC). Coursework covers cataloging and classification (such as DDC and MARC), library automation systems (such as Koha), and digital repository tools (such as DSpace). Students can also join professional organizations such as the Philippine Librarians Association, Inc. (PLAI). The library of Central Philippine University (CPU) is the Henry Luce III Library</p>
+      <p>The BLIS undertake a supervised library practicum assignment in school libraries, public libraries, academic libraries, or special libraries. The course will prepare the students for the Librarian Licensure Examination administered by the Professional Regulation Commission (PRC). Some of the topics taught in the BLIS include cataloging and classification like Dewey Decimal Classification and MARC,  library automation software (Koha), and digital repositories (DSpace). There is an option to join professional associations such as the Philippine Librarians Association, Inc. (PLAI). The CPU Library is the Henry Luce III Library.</p>
     </InfoSection>
   </div>
 </template>
