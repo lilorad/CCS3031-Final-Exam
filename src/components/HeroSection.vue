@@ -6,11 +6,13 @@ import ccsLogo from '../assets/ccs-logo.png'
   <section id="home" class="hero">
     <img :src="ccsLogo" alt="CCS logo" class="hero-logo" />
     <h1>Welcome to the College of Computer Studies</h1>
-    <p>The College of Computer Studies (CCS) serves as a vital academic hub dedicated to training the next generation of software engineers, 
-      IT specialists, data scientists, and cybersecurity experts through rigorous coursework and practical research.
+    <p>The College of Computer Studies is an important institution that focuses on providing education in software engineering, 
+      IT professionals, data science, and cybersecurity through intensive study and research programs.
+
+
       
-      By bridging fundamental theory with hands-on technical application, the college equips students to design innovative software, 
-      solve complex algorithmic problems, and adapt to rapidly evolving tech landscapes. Ultimately, it plays a central role in driving digital transformation by fostering industry partnerships and preparing skilled professionals to lead global advances in technology and computing.</p>
+         Connecting theory and practice, the college enables students to develop unique software, 
+      find solutions to algorithmic challenges, and keep pace with changing technological environments. In essence, it becomes an important element of digital transformation by working together with industries and developing professionals in the field of technology and computing.</p>
     <RouterLink :to="{ path: '/', hash: '#programs' }" class="cta">
       Explore Our Programs
     </RouterLink>
@@ -37,7 +39,18 @@ import ccsLogo from '../assets/ccs-logo.png'
   color: #fff;
   text-decoration: none;
   border-radius: 6px;
+  
 }
 
+.hero h1 {
+  margin-top: 16px;
+  font-size: 2.5rem;
+  
+}
 
+@media (max-width: 600px) {
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+}
 </style>

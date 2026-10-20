@@ -14,28 +14,28 @@ const programs = [
   {
     id: 'bsit',
     name: 'Bachelor of Science in Information Technology (BSIT)',
-    description: 'Prepares students to build, manage, and secure the technology systems that businesses rely on, including networks, databases, and web and mobile applications.',
+    description: 'Prepares students how to construct, operate, and safeguard technological systems used by business organizations, which include computer networks, databases, and websites and mobile applications.',
     logo: bsitLogo,
     to: '/bsit',
   },
   {
     id: 'bscs',
     name: 'Bachelor of Science in Computer Science (BSCS)',
-    description: 'Focuses on the theory and logic behind computing, including programming, algorithms, and software development, to prepare students for problem-solving and innovation.',
+    description: 'Focuses more with the theory and logic of computing, such as programming, algorithms, and software engineering.',
     logo: bscsLogo,
     to: '/bscs',
   },
   {
     id: 'bsdmia',
     name: 'Bachelor of Science in Digital Media and Interactive Arts (BSDMIA)',
-    description: 'Combines creativity and technology to train students in graphic design, animation, game design, and other interactive digital content.',
+    description: 'Utilizes creativity and technology to teach students in graphic design, animation, game design, and other digital media forms.',
     logo: bsdmiaLogo,
     to: '/bsdmia',
   },
   {
     id: 'blis',
     name: 'Bachelor of Library and Information Science (BLIS)',
-    description: 'Trains students to organize, manage, and share information in libraries, archives, and digital resource centers.',
+    description: 'Trains the students to organize, manage, and disseminate information within libraries, archival institutions, and resource centers.',
     logo: blisLogo,
     to: '/blis',
   },
@@ -103,4 +103,5 @@ const partners = [
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
   gap: 20px;
 }
+
 </style>

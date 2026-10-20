@@ -35,15 +35,15 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Why Choose This Program">
-      <p>The BSIT program focuses on hands-on, job-ready skills. Technology skills are needed in almost every industry, so graduates have many career paths to choose from. The program also builds skills in teamwork, communication, and critical thinking, which employers value in any field.</p>
+      <p>BSIT program is geared towards skills that students can apply in their jobs. Since technology skills are required by all industries, students have plenty of options in terms of career choices. Additionally, the program offers skills in teamwork, communications, and critical thinking.</p>
     </InfoSection>
 
     <InfoSection title="Who Should Enroll">
-      <p>This program is for students who enjoy working with computers, solving problems, and learning how technology works. It suits anyone curious about building websites and apps, managing networks, or keeping systems secure. No prior programming experience is required, just interest and willingness to learn.</p>
+      <p>This program is designed for students who like to work on computers, solve problems, and understand how technologies function. This program can be suitable for those who have an interest in website and application development, network management, and computer security. There are no prerequisites needed except for your interest.</p>
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">
-      <p>BSIT students gain hands-on experience through laboratory work, on-the-job training (OJT), and a capstone project that solves a real-world problem. The program supports preparation for industry certifications such as CompTIA A+/Network+, Cisco CCNA, Microsoft Azure Fundamentals, and AWS Cloud Practitioner. Students work in networking, web and mobile development, database, and systems administration environments. The computer laboratory of Central Philippine University (CPU) is the Mary Thomas Building that is equipped with the latest hardware and software tools.</p>
+      <p>BSIT learners get firsthand practice through lab work, on-the-job training, and a project to solve an existing problem in the real world. This curriculum will help in preparing for various certifications offered in the industry, such as CompTIA A+/Network+, Cisco CCNA, Microsoft Azure Fundamentals, and AWS Cloud Practitioner. The BSIT students learn through working in networks, web and mobile application development, databases, and system administration. The Computer Lab in Central Philippine University (CPU) is located in the Mary Thomas Building.</p>
     </InfoSection>
   </div>
 </template>
