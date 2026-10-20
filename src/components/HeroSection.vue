@@ -28,9 +28,7 @@ import ccsLogo from '../assets/ccs-logo.png'
   width: 180px;
 }
 
-.ccs-logo {
-  width: 80px;
-}
+
 .cta {
   display: inline-block;
   margin-top: 16px;
@@ -40,4 +38,6 @@ import ccsLogo from '../assets/ccs-logo.png'
   text-decoration: none;
   border-radius: 6px;
 }
+
+
 </style>

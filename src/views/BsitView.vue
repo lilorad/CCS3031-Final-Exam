@@ -43,7 +43,7 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">
-      <p>Verified curriculum, facilities, certifications, etc.</p>
+      <p>BSIT students gain hands-on experience through laboratory work, on-the-job training (OJT), and a capstone project that solves a real-world problem. The program supports preparation for industry certifications such as CompTIA A+/Network+, Cisco CCNA, Microsoft Azure Fundamentals, and AWS Cloud Practitioner. Students work in networking, web and mobile development, database, and systems administration environments. The computer laboratory of Central Philippine University (CPU) is the Mary Thomas Building that is equipped with the latest hardware and software tools.</p>
     </InfoSection>
   </div>
 </template>
@@ -67,4 +67,6 @@ import InfoSection from '../components/InfoSection.vue'
   margin-bottom: 16px;
   color: #fff;
 }
+
+
 </style>

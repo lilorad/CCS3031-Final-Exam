@@ -41,7 +41,7 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">
-      <p>Verified curriculum, facilities, certifications, etc.</p>
+      <p>BLIS students complete a supervised library practicum in school, public, academic, or special libraries. The program prepares graduates for the Librarian Licensure Examination given by the Professional Regulation Commission (PRC). Coursework covers cataloging and classification (such as DDC and MARC), library automation systems (such as Koha), and digital repository tools (such as DSpace). Students can also join professional organizations such as the Philippine Librarians Association, Inc. (PLAI). The library of Central Philippine University (CPU) is the Henry Luce III Library</p>
     </InfoSection>
   </div>
 </template>

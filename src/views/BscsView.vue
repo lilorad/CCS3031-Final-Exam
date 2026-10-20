@@ -41,7 +41,7 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">
-      <p>Verified curriculum, facilities, certifications, etc.</p>
+      <p>BSCS emphasizes theory alongside practice, with core courses in algorithms, data structures, automata, operating systems, and software engineering. Many programs offer advanced tracks or electives in artificial intelligence, machine learning, and data science. Students complete a research-based thesis, and many join programming contests and hackathons such as the ICPC. Graduates can pursue certifications such as AWS, Google Cloud, or TensorFlow Developer, or go on to graduate study. The computer laboratory of Central Philippine University (CPU) is the Mary Thomas Building that is equipped with the latest hardware and software tools. </p>
     </InfoSection>
   </div>
 </template>

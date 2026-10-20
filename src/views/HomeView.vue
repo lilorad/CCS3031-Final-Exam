@@ -7,7 +7,8 @@ import bsitLogo from '../assets/bsit-logo.png'
 import bscsLogo from '../assets/bscs-logo.png'
 import bsdmiaLogo from '../assets/bsdmia-logo.png'
 import blisLogo from '../assets/blis-logo.png'
-import partner1 from '../assets/partner1.png'
+import ciscoLogo from '../assets/cisco.png'
+import oracleLogo from '../assets/oracle.png'
 
 const programs = [
   {
@@ -38,10 +39,22 @@ const programs = [
     logo: blisLogo,
     to: '/blis',
   },
-]
 
+  
+]
 const partners = [
-  { id: 1, name: 'Partner name', description: 'Short description.', logo: partner1 },
+  {
+    id: 1,
+    name: 'Cisco Networking Academy',
+    description: 'Elective and certification courses in networking and IT skills, including CCNA preparation.',
+    logo: ciscoLogo,
+  },
+  {
+    id: 2,
+    name: 'Oracle Academic Initiative',
+    description: 'Database and software training through the Oracle academic program.',
+    logo: oracleLogo,
+  },
 ]
 </script>
 

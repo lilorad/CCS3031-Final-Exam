@@ -42,7 +42,7 @@ import InfoSection from '../components/InfoSection.vue'
     </InfoSection>
 
     <InfoSection title="Other Relevant Information">
-      <p>Verified curriculum, facilities, certifications, etc.</p>
+      <p>BSDMIA is studio-based, and students build a professional portfolio of their own projects. Coursework spans 2D/3D animation, game design and development, UI/UX design, motion graphics, and digital video production. Students work with industry tools such as Adobe Creative Cloud, Blender, Unity, and Figma. Students can prepare for credentials such as Adobe Certified Professional or Unity Certified User. The program ends with a thesis or showcase of original work. The computer laboratory of Central Philippine University (CPU) is the Mary Thomas Building that is equipped with the latest hardware and software tools.</p>
     </InfoSection>
   </div>
 </template>

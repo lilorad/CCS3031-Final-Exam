@@ -17,12 +17,19 @@ defineProps({
 <style scoped>
 .partner {
   text-align: center;
+  font-weight: bold;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 8px;
 }
 
 .partner-logo {
-  width: 90px;
+  width: 180px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.partner p {
+  font-family: 'Times New Roman', serif;
 }
 </style>
